@@ -1,1 +1,1 @@
-This is the second file in Tuna.
+Changes made to second text file
